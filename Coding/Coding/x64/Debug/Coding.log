@@ -1,0 +1,3 @@
+﻿  LastWordCount.cpp
+D:\CodingPractice\Coding\LastWordCount.cpp(9,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Coding.vcxproj -> D:\CodingPractice\Coding\x64\Debug\Coding.exe
